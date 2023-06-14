@@ -1,16 +1,24 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: Rising second-year undergraduate student pursuing a joint BA in economics/math at Emory College and a BBA at Goizueta Business School.
 ---
+Resume:
 
-My name is Inigo Montoya. I have the following qualities:
+EMORY UNIVERSITY:
+- GPA: 4.0 (Dean's List Fall 2022 and Spring 2023)
+- Relevant Courses: Microeconomics, Macroeconomics, Introduction to Statistical Inference, Statistics and Probability for Economists, Business Analytics
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+WORK EXPERIENCE:
+- Paid Work-Study, Emory University(Fall 2022-Present)
 
-What else do you need?
+
+ACTIVITIES 
+- Emory Concert Choir
+- AP A Cappella 
+- Emory Sustainable Business Group
+- Emory Entrepreneurship and Venture Management
+
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
